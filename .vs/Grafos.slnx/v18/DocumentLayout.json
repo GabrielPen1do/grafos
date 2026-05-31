@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Grafos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62BD5401-9370-479E-A361-8E5ADE3BA2A1}|Grafos.csproj|c:\\users\\gabriel\\source\\repos\\grafos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62BD5401-9370-479E-A361-8E5ADE3BA2A1}|Grafos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DFE05FF-BBFD-395E-BC86-5B4733D7CD65}|Grafos.csproj|c:\\users\\gabriel\\source\\repos\\grafos\\geradorcaminho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE05FF-BBFD-395E-BC86-5B4733D7CD65}|Grafos.csproj|solutionrelative:geradorcaminho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE05FF-BBFD-395E-BC86-5B4733D7CD65}|Grafos.csproj|c:\\users\\gabriel\\source\\repos\\grafos\\resultadodijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE05FF-BBFD-395E-BC86-5B4733D7CD65}|Grafos.csproj|solutionrelative:resultadodijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE05FF-BBFD-395E-BC86-5B4733D7CD65}|Grafos.csproj|c:\\users\\gabriel\\source\\repos\\grafos\\resultadocaminho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE05FF-BBFD-395E-BC86-5B4733D7CD65}|Grafos.csproj|solutionrelative:resultadocaminho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE05FF-BBFD-395E-BC86-5B4733D7CD65}|Grafos.csproj|c:\\users\\gabriel\\source\\repos\\grafos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE05FF-BBFD-395E-BC86-5B4733D7CD65}|Grafos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE05FF-BBFD-395E-BC86-5B4733D7CD65}|Grafos.csproj|c:\\users\\gabriel\\source\\repos\\grafos\\dijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE05FF-BBFD-395E-BC86-5B4733D7CD65}|Grafos.csproj|solutionrelative:dijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GeradorCaminho.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Grafos\\GeradorCaminho.cs",
+              "RelativeDocumentMoniker": "GeradorCaminho.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Grafos\\GeradorCaminho.cs",
+              "RelativeToolTip": "GeradorCaminho.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwDoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T20:19:46.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultadoDijkstra.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Grafos\\ResultadoDijkstra.cs",
+              "RelativeDocumentMoniker": "ResultadoDijkstra.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Grafos\\ResultadoDijkstra.cs",
+              "RelativeToolTip": "ResultadoDijkstra.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA2wBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T20:17:29.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dijkstra.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Grafos\\Dijkstra.cs",
+              "RelativeDocumentMoniker": "Dijkstra.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Grafos\\Dijkstra.cs",
+              "RelativeToolTip": "Dijkstra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T20:17:26.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultadoCaminho.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Grafos\\ResultadoCaminho.cs",
+              "RelativeDocumentMoniker": "ResultadoCaminho.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Grafos\\ResultadoCaminho.cs",
+              "RelativeToolTip": "ResultadoCaminho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T20:04:30.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Grafos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Grafos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T17:45:42.349Z",
+              "WhenOpened": "2026-05-30T19:47:28.98Z",
               "EditorCaption": ""
             }
           ]
